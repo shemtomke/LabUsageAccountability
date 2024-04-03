@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab Usage Accountability</string>
+
+    <string-array name="roles">
+        <item>manager</item>
+        <item>admin</item>
+        <item>staff</item>
+    </string-array>
+</resources>
